@@ -1,0 +1,7 @@
+{
+"name": "same-group-a",
+"version": "0.0.1"
+"devDependencies": {
+"expect": "1.20.2"
+}
+}
